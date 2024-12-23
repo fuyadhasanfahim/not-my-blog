@@ -19,7 +19,7 @@ const testimonials: Testimonial[] = [
         company: 'TechBlog Inc',
         comment:
             "This platform has transformed how I manage my blog. The intuitive interface and powerful features make content creation a breeze. I've seen a significant increase in engagement since switching.",
-        image: '/testimonials/sarah.jpg',
+        image: '/testimonials/avatar-1.avif',
     },
     {
         id: 2,
@@ -28,7 +28,7 @@ const testimonials: Testimonial[] = [
         company: 'DevDaily',
         comment:
             "The markdown support and code highlighting features are exactly what I needed for my technical blog. The platform's performance is outstanding, and my readers love the clean design.",
-        image: '/testimonials/mike.jpg',
+        image: '/testimonials/avatar-2.avif',
     },
     {
         id: 3,
@@ -37,7 +37,7 @@ const testimonials: Testimonial[] = [
         company: 'Growth Masters',
         comment:
             "The SEO tools and analytics provided are game-changing. I can easily track my blog's performance and optimize content for better reach. The customer support is exceptional too!",
-        image: '/testimonials/emma.jpg',
+        image: '/testimonials/avatar-3.avif',
     },
 ];
 
